@@ -36,6 +36,7 @@ Assembly of bottle<br/>
 <img src="https://i.postimg.cc/8Pv7H1KR/image.png" height=80% width=80%/>
 <br />
 <br />
-Final printed product<br/>
+<h2>Final Product</h2>
+<p align="center">
 <img src="https://i.postimg.cc/B6yvTy27/image.png" height=80% width=80%/>
 
