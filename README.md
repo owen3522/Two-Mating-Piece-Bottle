@@ -1,7 +1,7 @@
 <h1>Two Piece Mating Bottle</h1>
 
 <h2>Project Task</h2>
-- <b>Design two mating parts in Creo Parametric</b>
+<b>Design two mating parts in Creo Parametric.</b>
 
 <h2>Project Constraints</h2>
 
