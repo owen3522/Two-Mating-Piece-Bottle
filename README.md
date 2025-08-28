@@ -19,7 +19,7 @@ Bottle with a mating connection at the top of the part<br/>
 <img src="https://i.postimg.cc/HxkvCvc2/image.png" height=80% width=80%/>
 <br />
 <br />
-Drawing of bottle<br/>
+Drawing of bottle with tolerances<br/>
 <img src="https://i.postimg.cc/3wKngfBT/image.png" height=80% width=80%/>
 <br />
 <br />
@@ -27,6 +27,15 @@ Bottle cap second mating piece which creates a snug connection on top of the bot
 <img src="https://i.postimg.cc/QdjybM8w/image.png" height=80% width=80%/>
 <br />
 <br />
-Drawing of bottle cap<br/>
+Drawing of bottle cap with tolerances<br/>
 <img src="https://i.postimg.cc/YS9D5ymx/image.png" height=80% width=80%/>
+<br />
+<br />
+Assembly of bottle<br/>
+<img src="https://i.postimg.cc/xdnN8WPK/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/8Pv7H1KR/image.png" height=80% width=80%/>
+<br />
+<br />
+Final printed product<br/>
+<img src="https://i.postimg.cc/B6yvTy27/image.png" height=80% width=80%/>
 
